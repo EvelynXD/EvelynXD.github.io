@@ -14,7 +14,7 @@
                     <span class="hov">e</span>
                 </h1>
                 <p class="desc">
-                    Hi, My name is Gunawan Nur Ahmad, and I'm a frontend developer with expertise creating engaging and straightforward user experiences. I'm enthusiastic about building seamless experiences that assist people in achieving their objectives.
+                    Hi, My name is EvelynXD, and I'm a frontend developer with expertise creating engaging and straightforward user experiences. I'm enthusiastic about building seamless experiences that assist people in achieving their objectives.
                     <br /><br />
                     As a computer science student, I'm constantly learning and improving my abilities. I've worked on projects ranging from small websites to large-scale web applications, and I'm committed to providing high-quality work that fulfills both the demands of the user and the specifications of the project.
                     <br /><br />

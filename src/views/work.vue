@@ -75,76 +75,75 @@ export default {
             isDetail: false,
             myProjects: [
                 {
-                    title: "Sorting Visualizer",
+                    title: "Fireworks 2023",
                     description:
-                        "Sorting visualizer is visualization tool for famous sorting algorithm such as Insertion and Selection. The user can random the array and it's also included the pseudo code visualization and a bit of information of the algorithm.",
+                        "Happy New Year!",
                     source:
-                        "https://github.com/GunawanAhmad/sorting-visualizer",
-                    link: "https://gunawanahmad.github.io/sorting-visualizer/",
+                        "https://github.com/EvelynXD/firework-2023",
+                    link: "https://evelynxd.github.io/firework-2023/",
                     img: "sorting.png",
-                    codeTools: ["Vue JS"],
-                    design: "Design by Me with Figma",
+                    codeTools: ["HTML", "CSS", "Javascript"],
+                    design: "Design by Evelyn",
                 },
                 {
-                    title: "Pathfinding Visualizer",
+                    title: "Kebelet Iphone",
                     description:
-                        "Pathfinding visualizer is a visualization tool for famous pathfinding algorithm such as Dijsktra and A* Search. The user can choose the start and finish point on the grid and add wall to the grid so the path cannot cross through it.",
+                        "This Kebelet Iphone is for people who have high prestige, but if you want to try it, you can.",
                     source:
-                        "https://github.com/GunawanAhmad/pathfinding-visualizer",
+                        "https://github.com/EvelynXD/Kebelet-Iphone",
                     link:
-                        "https://gunawanahmad.github.io/pathfinding-visualizer/#/",
+                        "https://kebelet-iphone.vercel.app/",
                     img: "pathfinding-visualizer.png",
-                    codeTools: ["Vue JS", "SCSS"],
+                    codeTools: ["HTML", "CSS", "PHP"],
+                    design: "Design by Evelyn",
+                },
+                {
+                    title: "Herta Kuru",
+                    description:
+                        "The website for Herta, the cutest genius Honkai: Star Rail character out there.",
+                    source: "https://github.com/EvelynXD/kuru-kuru",
+                    link: "https://kuru-kuru.vercel.app/",
+                    img: "mangjasa.png",
+                    codeTools: ["HTML", "CSS", "Javascript"],
+                    design: "Design by Haviza Aufa",
+                },
+                {
+                    title: "First Profile",
+                    description:
+                        "My first portfolio",
+                    source:
+                        "https://github.com/EvelynXD/first-profile",
+                    link:
+                        "https://evelynxd.vercel.app/",
+                    img: "generator.png",
+                    codeTools: ["React JS"],
                     design: "Design by Me",
                 },
                 {
-                    title: "Mangjasa",
+                    title: "Terminal Portfolio",
                     description:
-                        "Mangjasa was my work during my community service as an assistant professor in college. I was responsible for making the UI interfaces and worked with the UI designer and backend developer to build the system.",
-                    source: "",
-                    link: "https://mangjasa.com/",
-                    img: "mangjasa.png",
-                    codeTools: ["ReactJs"],
-                    design: "Design by Haviza Aufa Labiba",
-                },
-                {
-                    title: "Radio and Checkbox Input Generator",
-                    description:
-                        "Radio and Checkbox Input Generator is a web where developer can make their custom radio and checkbox input for HTML and CSS code and make the development process easier and faster.",
+                        "Terminal Portfolio is a portfolio website that is made to look like a terminal.",
                     source:
-                        "https://github.com/GunawanAhmad/Radio-Checkbox-Generator",
-                    link:
-                        "https://gunawanahmad.github.io/Radio-Checkbox-Generator/",
-                    img: "generator.png",
-                    codeTools: ["HTML", "SCSS", "Javascript"],
-                    design: "Design by Me with Adobe XD",
-                },
-                {
-                    title: "Inventory Web App",
-                    description:
-                        "Inventory web app is an app where the user can store and manage the user property/inventory ",
-                    source:
-                        "https://github.com/GunawanAhmad/Inventory-Frontend",
-                    link: "https://inventory-web-app.herokuapp.com/",
+                        "https://github.com/EvelynXD/terminal",
+                    link: "https://evelyn-terminal.vercel.app/",
                     img: "inventory.png",
                     codeTools: [
-                        "React Js",
-                        "SCSS",
-                        "NodeJs",
-                        "Express",
-                        "Mongoose",
+                        "TypeScript",
+                        "React JS",
+                        "Next JS",
+                        "Tailwind CSS",
                     ],
-                    design: "Design by Me with Figma",
+                    design: "Design by Evelyn",
                 },
                 {
-                    title: "Indeas.io (Landing Page)",
+                    title: "Game Snake",
                     description:
-                        "Collaboration tool website for managing users projects.",
-                    source: "https://github.com/GunawanAhmad/Ideas.io",
-                    link: "https://ideas-io.vercel.app/",
+                        "This project can be accessed through a web browser and has been optimized for a responsive display, which means the game can be played on various devices, both desktop and mobile devices.",
+                    source: "https://github.com/EvelynXD/Snake-",
+                    link: "https://evelynxd.github.io/Snake-/",
                     img: "ideas.png",
-                    codeTools: ["HTML", "Tailwind CSS", "Javascript"],
-                    design: "Design by Me with Figma",
+                    codeTools: ["HTML", "CSS", "Javascript"],
+                    design: "Design by Evelyn",
                 },
                 {
                     title: "Statued (Landing Page)",
@@ -159,14 +158,14 @@ export default {
                         "Javascript",
                         "Three Js",
                     ],
-                    design: "Design by Me with Figma",
+                    design: "Design by Evelyn",
                 },
                 {
                     title: "Web Application for Online Consultation (Kliniku)",
                     description:
                         "Kliniku is an online consultation platform where people can fill in an online form about their health issue to send for a doctor. The doctor can respond and give them medical advice.",
                     source:
-                        "https://github.com/GunawanAhmad/Sisfo-Klinik-Full-Stack",
+                        "https://github.com/EvelynXD/Sisfo-Klinik-Full-Stack",
                     link: "",
                     codeTools: ["VueJS", "MongoDB", "NodeJs", "ExpressJS"],
                     design: "Design by Faris Azizy",

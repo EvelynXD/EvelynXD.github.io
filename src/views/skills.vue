@@ -33,11 +33,11 @@
                 Visit my
                 <a
                     target="_blank"
-                    href="https://www.linkedin.com/in/gunawan-nur-ahmad-0148441b7/"
+                    href="https://www.facebook.com/hasan.bangbross.9"
                     class="link linkedln"
-                    >Linkedln</a
+                    >Facebook</a
                 >
-                profile for more details or just
+                profile for memes or just
                 <span @click="menuBackgroundAnim(4)"
                     ><router-link to="/contact" class="link contact"
                         >contact me.</router-link

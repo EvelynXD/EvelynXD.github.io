@@ -61,18 +61,18 @@
                             <a class="email media" href="mailto:gunawanfsdev@gmail" target="_blank">
                                 <i class="fas fa-envelope"></i>
                             </a>
-                            <a class="twitter media" href="https://twitter.com/Gunawan10x" target="_blank">
-                                <i class="fab fa-twitter"></i>
+                            <a class="twitter media" href="https://www.kebelet-iphone.my.id/" target="_blank">
+                                <i class="fab fa-blogger"></i>
                             </a>
-                            <a class="github media" href="https://github.com/GunawanAhmad" target="_blank">
+                            <a class="github media" href="https://github.com/EvelynXD" target="_blank">
                                 <i class="fab fa-github"></i>
                             </a>
                             <a
                                 class="Linkedln media"
-                                href="https://www.linkedin.com/in/gunawan-nur-ahmad-0148441b7/"
+                                href="https://www.facebook.com/hasan.bangbross.9"
                                 target="_blank"
                             >
-                                <i class="fab fa-linkedin"></i>
+                                <i class="fab fa-facebook"></i>
                             </a>
                         </div>
                         <button type="submit" class="btn">
@@ -118,7 +118,7 @@ export default {
             this.toggleStatusPage();
             axios.defaults.headers.post["Content-Type"] = "application/json";
             axios
-                .post("https://formsubmit.co/ajax/gunawanahmadef@gmail.com", {
+                .post("https://formsubmit.co/ajax/a8900873@gmail.com", {
                     name: this.name,
                     email: this.email,
                     message: this.message,
