@@ -33,5 +33,37 @@
 },
 
 {
-    title:"Inventory Web App",description:"Inventory web app is an app where the user can store and manage the user property/inventory ",source:"https://github.com/EvelynXD/Inventory-Frontend",link:"https://inventory-web-app.herokuapp.com/",img:"inventory.png",codeTools:["React Js","SCSS","NodeJs","Express","Mongoose"],design:"Design by Evelyn with Figma",key:5},{title:"Indeas.io (Landing Page)",description:"Collaboration tool website for managing users projects.",source:"https://github.com/EvelynXD/Ideas.io",link:"https://ideas-io.vercel.app/",img:"ideas.png",codeTools:["HTML","Tailwind CSS","Javascript"],design:"Design by Evelyn with Figma",key:5},{title:"Statued (Landing Page)",description:"Online shop for statue customization with 3d look.",source:"https://github.com/EvelynXD/Statued",link:"https://statued.vercel.app/",img:"statued.png",codeTools:["HTML","Tailwind CSS","Javascript","Three Js"],design:"Design by Evelyn with Figma",key:5}]}},mounted:function(){},methods:{}},R=q,Y=(a("b803"),Object(u["a"])(R,G,W,!1,null,"ab0f5a30",null)),K=Y.exports;e["a"].use(g["a"]);var U=[{path:"/",name:"Home Page",component:y},{path:"/about",name:"About",component:H},{path:"/skills",name:"Skills",component:T},{path:"/contact",name:"Contact Page",component:z},{path:"/work",name:"My Work Page",component:K}],X=new g["a"]({mode:"history",base:"/",routes:U}),Q=X,tt=a("2f62");e["a"].use(tt["a"]);var st=new tt["a"].Store({state:{hover:[],backgroundTransition:null,lastVisitedPage:null,aboutPageIcon:null,menuBag:null,menuListHeight:0,navList:null},mutations:{},actions:{},modules:{}});a("15f5"),a("7051");e["a"].config.productionTip=!1,new e["a"]({router:Q,store:st,render:function(t){return t(m)}}).$mount("#app")},8400:function(t,s,a){t.exports=a.p+"img/logoNew.78fd3a60.png"},"93a0":function(t,s,a){t.exports=a.p+"img/node.a22a4241.svg"},"99e0":function(t,s,a){t.exports=a.p+"img/mongodb.a0e5bc5d.svg"},"9b19":function(t,s,a){t.exports=a.p+"img/logo.aac5c1b8.svg"},"9d26":function(t,s,a){t.exports=a.p+"img/tablet.26ec8520.svg"},a376:function(t,s,a){t.exports=a.p+"img/html.0ed97718.svg"},a433:function(t,s,a){t.exports=a.p+"img/statued.6a70b6c3.png"},b2e9:function(t,s,a){t.exports=a.p+"img/react.40a116da.svg"},b4fa:function(t,s,a){"use strict";var e=a("3dbd"),i=a.n(e);i.a},b803:function(t,s,a){"use strict";var e=a("2834"),i=a.n(e);i.a},b855:function(t,s,a){t.exports=a.p+"img/profile.55db3c83.svg"},bf0d:function(t,s,a){t.exports=a.p+"img/inventory.f734abff.png"},c6bc:function(t,s,a){"use strict";var e=a("3d44"),i=a.n(e);i.a},c9c4:function(t,s,a){"use strict";var e=a("5137"),i=a.n(e);i.a},ca83:function(t,s,a){t.exports=a.p+"img/css.6d717dd6.svg"},cf05:function(t,s,a){t.exports=a.p+"img/logo.82b9c7a5.png"},cf9e:function(t,s,a){"use strict";var e=a("307f"),i=a.n(e);i.a},d02b:function(t,s,a){t.exports=a.p+"img/logoName.f72a3530.svg"},e066:function(t,s,a){t.exports=a.p+"img/generator.8f112d55.png"},f2ed:function(t,s,a){t.exports=a.p+"img/sorting.a23e4dee.png"},fb73:function(t,s,a){t.exports=a.p+"img/ideas.f9ff0b07.png"}});
+    title:"Terminal Portfolio",
+    description:"Terminal Portfolio is a portfolio website that is made to look like a terminal.",
+    source:"https://github.com/EvelynXD/terminal",
+    link:"https://evelyn-terminal.vercel.app/",
+    img:"inventory.png",
+    codeTools:["TypeScript","React JS","Next JS","Tailwinds CSS"],
+    design:"Design by Evelyn",
+    key:5
+},
+
+{
+    title:"Game Snake",
+    description:"This project can be accessed through a web browser and has been optimized for a responsive display, which means the game can be played on various devices, both desktop and mobile devices.",
+    source:"https://github.com/EvelynXD/Snake-",
+    link:"https://evelynxd.github.io/Snake-/",
+    img:"ideas.png",
+    codeTools:["HTML","CSS","Javascript"],
+    design:"Design by Evelyn",
+    key:5
+},
+
+{
+    title:"Statued (Landing Page)",
+    description:"Online shop for statue customization with 3d look.",
+    source:"https://github.com/EvelynXD/Statued",
+    link:"https://statued.vercel.app/",
+    img:"statued.png",
+    codeTools:["HTML","Tailwind CSS","Javascript","Three Js"],
+    design:"Design by Evelyn with Figma",
+    key:5
+}]}},
+
+mounted:function(){},methods:{}},R=q,Y=(a("b803"),Object(u["a"])(R,G,W,!1,null,"ab0f5a30",null)),K=Y.exports;e["a"].use(g["a"]);var U=[{path:"/",name:"Home Page",component:y},{path:"/about",name:"About",component:H},{path:"/skills",name:"Skills",component:T},{path:"/contact",name:"Contact Page",component:z},{path:"/work",name:"My Work Page",component:K}],X=new g["a"]({mode:"history",base:"/",routes:U}),Q=X,tt=a("2f62");e["a"].use(tt["a"]);var st=new tt["a"].Store({state:{hover:[],backgroundTransition:null,lastVisitedPage:null,aboutPageIcon:null,menuBag:null,menuListHeight:0,navList:null},mutations:{},actions:{},modules:{}});a("15f5"),a("7051");e["a"].config.productionTip=!1,new e["a"]({router:Q,store:st,render:function(t){return t(m)}}).$mount("#app")},8400:function(t,s,a){t.exports=a.p+"img/logoNew.78fd3a60.png"},"93a0":function(t,s,a){t.exports=a.p+"img/node.a22a4241.svg"},"99e0":function(t,s,a){t.exports=a.p+"img/mongodb.a0e5bc5d.svg"},"9b19":function(t,s,a){t.exports=a.p+"img/logo.aac5c1b8.svg"},"9d26":function(t,s,a){t.exports=a.p+"img/tablet.26ec8520.svg"},a376:function(t,s,a){t.exports=a.p+"img/html.0ed97718.svg"},a433:function(t,s,a){t.exports=a.p+"img/statued.6a70b6c3.png"},b2e9:function(t,s,a){t.exports=a.p+"img/react.40a116da.svg"},b4fa:function(t,s,a){"use strict";var e=a("3dbd"),i=a.n(e);i.a},b803:function(t,s,a){"use strict";var e=a("2834"),i=a.n(e);i.a},b855:function(t,s,a){t.exports=a.p+"img/profile.55db3c83.svg"},bf0d:function(t,s,a){t.exports=a.p+"img/inventory.f734abff.png"},c6bc:function(t,s,a){"use strict";var e=a("3d44"),i=a.n(e);i.a},c9c4:function(t,s,a){"use strict";var e=a("5137"),i=a.n(e);i.a},ca83:function(t,s,a){t.exports=a.p+"img/css.6d717dd6.svg"},cf05:function(t,s,a){t.exports=a.p+"img/logo.82b9c7a5.png"},cf9e:function(t,s,a){"use strict";var e=a("307f"),i=a.n(e);i.a},d02b:function(t,s,a){t.exports=a.p+"img/logoName.f72a3530.svg"},e066:function(t,s,a){t.exports=a.p+"img/generator.8f112d55.png"},f2ed:function(t,s,a){t.exports=a.p+"img/sorting.a23e4dee.png"},fb73:function(t,s,a){t.exports=a.p+"img/ideas.f9ff0b07.png"}});
 //# sourceMappingURL=app.d46beafc.js.map

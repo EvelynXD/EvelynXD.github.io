@@ -41,12 +41,12 @@
     key:4
 },
 {
-    title:"Snake",
-    description:"Awas ular...!!! Rawrrrr",
-    source:"https://github.com/EvelynXD/ular-kanjuth",
-    link:"https://evelynxd.github.io/ular-kanjuth/",
+    title:"Terminal Portfolio",
+    description:"Terminal Portfolio is a portfolio website that is made to look like a terminal.",
+    source:"https://github.com/EvelynXD/terminal",
+    link:"https://evelyn-terminal.vercel.app/",
     img:"inventory.png",
-    codeTools:["HTML","CSS","Javascript","Express","Mongoose"],
+    codeTools:["TypeScript","React JS","Next JS","Tailwind CSS"],
     design:"Design by Evelyn",
     key:5
 }

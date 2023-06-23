@@ -32,13 +32,13 @@
 },
 
 {
-    title:"Inventory Web App",
-    description:"Inventory web app is an app where the user can store and manage the user property/inventory ",
-    source:"https://github.com/EvelynXD/Inventory-Frontend",
-    link:"https://inventory-web-app.herokuapp.com/",
+    title:"Terminal Portfolio",
+    description:"Terminal Portfolio is a portfolio website that is made to look like a terminal.",
+    source:"https://github.com/EvelynXD/terminal",
+    link:"https://evelyn-terminal.vercel.app/",
     img:"inventory.png",
-    codeTools:["React Js","SCSS","NodeJs","Express","Mongoose"],
-    design:"Design by Evelyn with Figma",
+    codeTools:["TypeScript","React JS","Next JS","Tailwinds CSS"],
+    design:"Design by Evelyn",
     key:5
 },
 
