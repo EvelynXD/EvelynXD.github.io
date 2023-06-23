@@ -6,8 +6,8 @@
     source:"https://github.com/EvelynXD/first-profile",
     link:"https://evelynxd.vercel.app/",
     img:"generator.png",
-    codeTools:["ReactJS"],
-    design:"Design by Me",
+    codeTools:["React JS"],
+    design:"Design by Evelyn",
     key:2
 }]}},
 

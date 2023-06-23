@@ -6,11 +6,43 @@
     source:"https://github.com/EvelynXD/first-profile",
     link:"https://evelynxd.vercel.app/",
     img:"generator.png",
-    codeTools:["ReactJS"],
-    design:"Design by Me",
+    codeTools:["React JS"],
+    design:"Design by Evelyn",
     key:2
 },
 
 {
-    title:"Pathfinding Visualizer",description:"Pathfinding visualizer is a visualization tool for famous pathfinding algorithm such as Dijsktra and A* Search. The user can choose the start and finish point on the grid and add wall to the grid so the path cannot cross through it.",source:"https://github.com/EvelynXD/pathfinding-visualizer",link:"https://gunawanahmad.github.io/pathfinding-visualizer/#/",img:"pathfinding-visualizer.png",codeTools:["Vue JS","SCSS"],design:"Design by Me",key:3},{title:"Sorting Visualizer",description:"Sorting visualizer is visualization tool for famous sorting algorithm such as Insertion and Selection. The user can random the array and it's also included the pseudo code visualization and a bit of information of the algorithm.",source:"https://github.com/EvelynXD/sorting-visualizer",link:"https://gunawanahmad.github.io/sorting-visualizer/",img:"sorting.png",codeTools:["Vue JS"],design:"Design by Me with Figma",key:4},{title:"Inventory Web App",description:"Inventory web app is an app where the user can store and manage the user property/inventory ",source:"https://github.com/EvelynXD/Inventory-Frontend",link:"https://inventory-web-app.herokuapp.com/",img:"inventory.png",codeTools:["React Js","SCSS","NodeJs","Express","Mongoose"],design:"Design by Me with Figma",key:5}]}},mounted:function(){},methods:{}},R=q,U=(a("2f96"),Object(p["a"])(R,z,W,!1,null,"5ab9255f",null)),K=U.exports;e["a"].use(g["a"]);var X=[{path:"/",name:"Home Page",component:x},{path:"/about",name:"About",component:A},{path:"/skills",name:"Skills",component:D},{path:"/contact",name:"Contact Page",component:G},{path:"/work",name:"My Work Page",component:K}],Y=new g["a"]({mode:"history",base:"/",routes:X}),Q=Y,tt=a("2f62");e["a"].use(tt["a"]);var st=new tt["a"].Store({state:{hover:[],backgroundTRansition:null},mutations:{},actions:{},modules:{}});a("15f5"),a("7051");e["a"].config.productionTip=!1,new e["a"]({router:Q,store:st,render:function(t){return t(m)}}).$mount("#app")},"6a71":function(t,s,a){"use strict";var e=a("3b32"),i=a.n(e);i.a},8400:function(t,s,a){t.exports=a.p+"img/logoNew.78fd3a60.png"},"93a0":function(t,s,a){t.exports=a.p+"img/node.a22a4241.svg"},"99e0":function(t,s,a){t.exports=a.p+"img/mongodb.fecb4904.svg"},"9b19":function(t,s,a){t.exports=a.p+"img/logo.aac5c1b8.svg"},"9d26":function(t,s,a){t.exports=a.p+"img/tablet.26ec8520.svg"},a376:function(t,s,a){t.exports=a.p+"img/html.0ed97718.svg"},a736:function(t,s,a){},b4fa:function(t,s,a){"use strict";var e=a("3dbd"),i=a.n(e);i.a},b5bf:function(t,s,a){"use strict";var e=a("d912"),i=a.n(e);i.a},b855:function(t,s,a){t.exports=a.p+"img/profile.55db3c83.svg"},bf0d:function(t,s,a){t.exports=a.p+"img/inventory.f734abff.png"},ca83:function(t,s,a){t.exports=a.p+"img/css.6d717dd6.svg"},cf05:function(t,s,a){t.exports=a.p+"img/logo.82b9c7a5.png"},cf9e:function(t,s,a){"use strict";var e=a("307f"),i=a.n(e);i.a},d02b:function(t,s,a){t.exports=a.p+"img/logoName.1e065cc8.svg"},d456:function(t,s,a){},d912:function(t,s,a){},db49:function(t,s,a){"use strict";var e=a("d456"),i=a.n(e);i.a},e066:function(t,s,a){t.exports=a.p+"img/generator.8f112d55.png"},f2ed:function(t,s,a){t.exports=a.p+"img/sorting.a23e4dee.png"}});
+    title:"Kebelet Iphone",
+    description:"This Kebelet Iphone is for people who have high prestige, but if you want to try it, you can.",
+    source:"https://github.com/EvelynXD/Kebelet-Iphone",
+    link:"https://kebelet-iphone.vercel.app/",
+    img:"pathfinding-visualizer.png",
+    codeTools:["HTML","CSS", "PHP"],
+    design:"Design by Evelyn",
+    key:3
+},
+
+{
+    title:"Fireworks 2023",
+    description:"Happy New Year!.",
+    source:"https://github.com/EvelynXD/firework-2023",
+    link:"https://evelynxd.github.io/firework-2023/",
+    img:"sorting.png",
+    codeTools:["HTML", "CSS", "Javascript"],
+    design:"Design by Evelyn",
+    key:4
+},
+
+{
+    title:"Inventory Web App",
+    description:"Inventory web app is an app where the user can store and manage the user property/inventory ",
+    source:"https://github.com/EvelynXD/Inventory-Frontend",
+    link:"https://inventory-web-app.herokuapp.com/",
+    img:"inventory.png",
+    codeTools:["React Js","SCSS","NodeJs","Express","Mongoose"],
+    design:"Design by Evelyn with Figma",
+    key:5
+}]}},
+
+mounted:function(){},methods:{}},R=q,U=(a("2f96"),Object(p["a"])(R,z,W,!1,null,"5ab9255f",null)),K=U.exports;e["a"].use(g["a"]);var X=[{path:"/",name:"Home Page",component:x},{path:"/about",name:"About",component:A},{path:"/skills",name:"Skills",component:D},{path:"/contact",name:"Contact Page",component:G},{path:"/work",name:"My Work Page",component:K}],Y=new g["a"]({mode:"history",base:"/",routes:X}),Q=Y,tt=a("2f62");e["a"].use(tt["a"]);var st=new tt["a"].Store({state:{hover:[],backgroundTRansition:null},mutations:{},actions:{},modules:{}});a("15f5"),a("7051");e["a"].config.productionTip=!1,new e["a"]({router:Q,store:st,render:function(t){return t(m)}}).$mount("#app")},"6a71":function(t,s,a){"use strict";var e=a("3b32"),i=a.n(e);i.a},8400:function(t,s,a){t.exports=a.p+"img/logoNew.78fd3a60.png"},"93a0":function(t,s,a){t.exports=a.p+"img/node.a22a4241.svg"},"99e0":function(t,s,a){t.exports=a.p+"img/mongodb.fecb4904.svg"},"9b19":function(t,s,a){t.exports=a.p+"img/logo.aac5c1b8.svg"},"9d26":function(t,s,a){t.exports=a.p+"img/tablet.26ec8520.svg"},a376:function(t,s,a){t.exports=a.p+"img/html.0ed97718.svg"},a736:function(t,s,a){},b4fa:function(t,s,a){"use strict";var e=a("3dbd"),i=a.n(e);i.a},b5bf:function(t,s,a){"use strict";var e=a("d912"),i=a.n(e);i.a},b855:function(t,s,a){t.exports=a.p+"img/profile.55db3c83.svg"},bf0d:function(t,s,a){t.exports=a.p+"img/inventory.f734abff.png"},ca83:function(t,s,a){t.exports=a.p+"img/css.6d717dd6.svg"},cf05:function(t,s,a){t.exports=a.p+"img/logo.82b9c7a5.png"},cf9e:function(t,s,a){"use strict";var e=a("307f"),i=a.n(e);i.a},d02b:function(t,s,a){t.exports=a.p+"img/logoName.1e065cc8.svg"},d456:function(t,s,a){},d912:function(t,s,a){},db49:function(t,s,a){"use strict";var e=a("d456"),i=a.n(e);i.a},e066:function(t,s,a){t.exports=a.p+"img/generator.8f112d55.png"},f2ed:function(t,s,a){t.exports=a.p+"img/sorting.a23e4dee.png"}});
 //# sourceMappingURL=app.81332364.js.map

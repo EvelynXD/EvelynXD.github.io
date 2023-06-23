@@ -6,11 +6,32 @@
     source:"https://github.com/EvelynXD/first-profile",
     link:"https://evelynxd.vercel.app/",
     img:"generator.png",
-    codeTools:["ReactJS"],
-    design:"Design by Me",
+    codeTools:["React JS"],
+    design:"Design by Evelyn",
     key:2
 },
 
 {
-    title:"Pathfinding Visualizer",description:"Pathfinding visualizer is a visualization tool for famous pathfinding algorithm such as Dijsktra and A* Search. The user can choose the start and finish point on the grid and add wall to the grid so the path cannot cross through it.",source:"https://github.com/EvelynXD/pathfinding-visualizer",link:"https://gunawanahmad.github.io/pathfinding-visualizer/#/",img:"pathfinding-visualizer.png",codeTools:["Vue JS","SCSS"],design:"Design by Me",key:3},{title:"Sorting Visualizer",description:"Sorting visualizer is visualization tool for famous sorting algorithm such as Insertion and Selection. The user can random the array and it's also included the pseudo code visualization and a bit of information of the algorithm.",source:"https://github.com/EvelynXD/sorting-visualizer",link:"https://gunawanahmad.github.io/sorting-visualizer/",img:"sorting.png",codeTools:["Vue JS"],design:"Design by Me with Figma",key:4}]}},mounted:function(){},methods:{}},R=q,U=(a("9a23"),Object(p["a"])(R,z,W,!1,null,"a53a6d42",null)),Y=U.exports;e["a"].use(g["a"]);var K=[{path:"/",name:"Home Page",component:x},{path:"/about",name:"About",component:A},{path:"/skills",name:"Skills",component:D},{path:"/contact",name:"Contact Page",component:G},{path:"/work",name:"My Work Page",component:Y}],X=new g["a"]({mode:"history",base:"/",routes:K}),Q=X,tt=a("2f62");e["a"].use(tt["a"]);var st=new tt["a"].Store({state:{hover:[],backgroundTRansition:null},mutations:{},actions:{},modules:{}});a("15f5"),a("7051");e["a"].config.productionTip=!1,new e["a"]({router:Q,store:st,render:function(t){return t(m)}}).$mount("#app")},8400:function(t,s,a){t.exports=a.p+"img/logoNew.78fd3a60.png"},"878a":function(t,s){throw new Error("Module parse failed: Unexpected character '�' (1:0)\nYou may need an appropriate loader to handle this file type, currently no loaders are configured to process this file. See https://webpack.js.org/concepts#loaders\n(Source code omitted for this binary file)")},"93a0":function(t,s,a){t.exports=a.p+"img/node.a22a4241.svg"},"99e0":function(t,s,a){t.exports=a.p+"img/mongodb.fecb4904.svg"},"9a23":function(t,s,a){"use strict";var e=a("414c"),i=a.n(e);i.a},"9b19":function(t,s,a){t.exports=a.p+"img/logo.aac5c1b8.svg"},"9d26":function(t,s,a){t.exports=a.p+"img/tablet.26ec8520.svg"},a376:function(t,s,a){t.exports=a.p+"img/html.0ed97718.svg"},b4fa:function(t,s,a){"use strict";var e=a("3dbd"),i=a.n(e);i.a},b5bf:function(t,s,a){"use strict";var e=a("d912"),i=a.n(e);i.a},b855:function(t,s,a){t.exports=a.p+"img/profile.55db3c83.svg"},ca83:function(t,s,a){t.exports=a.p+"img/css.6d717dd6.svg"},cf05:function(t,s,a){t.exports=a.p+"img/logo.82b9c7a5.png"},cf9e:function(t,s,a){"use strict";var e=a("307f"),i=a.n(e);i.a},d02b:function(t,s,a){t.exports=a.p+"img/logoName.1e065cc8.svg"},d456:function(t,s,a){},d912:function(t,s,a){},db49:function(t,s,a){"use strict";var e=a("d456"),i=a.n(e);i.a},df21:function(t,s,a){},e066:function(t,s,a){t.exports=a.p+"img/generator.8f112d55.png"},f2ed:function(t,s,a){t.exports=a.p+"img/sorting.a23e4dee.png"}});
+    title:"Kebelet Iphone",
+    description:"This Kebelet Iphone is for people who have high prestige, but if you want to try it, you can.",
+    source:"https://github.com/EvelynXD/Kebelet-Iphone",
+    link:"https://kebelet-iphone.vercel.app/",
+    img:"pathfinding-visualizer.png",
+    codeTools:["HTML","CSS", "PHP"],
+    design:"Design by Evelyn",
+    key:3
+},
+
+{
+    title:"Fireworks 2023",
+    description:"Happy New Year!.",
+    source:"https://github.com/EvelynXD/firework-2023",
+    link:"https://evelynxd.github.io/firework-2023/",
+    img:"sorting.png",
+    codeTools:["HTML", "CSS", "Javascript"],
+    design:"Design by Evelyn",
+    key:4
+}]}},
+
+mounted:function(){},methods:{}},R=q,U=(a("9a23"),Object(p["a"])(R,z,W,!1,null,"a53a6d42",null)),Y=U.exports;e["a"].use(g["a"]);var K=[{path:"/",name:"Home Page",component:x},{path:"/about",name:"About",component:A},{path:"/skills",name:"Skills",component:D},{path:"/contact",name:"Contact Page",component:G},{path:"/work",name:"My Work Page",component:Y}],X=new g["a"]({mode:"history",base:"/",routes:K}),Q=X,tt=a("2f62");e["a"].use(tt["a"]);var st=new tt["a"].Store({state:{hover:[],backgroundTRansition:null},mutations:{},actions:{},modules:{}});a("15f5"),a("7051");e["a"].config.productionTip=!1,new e["a"]({router:Q,store:st,render:function(t){return t(m)}}).$mount("#app")},8400:function(t,s,a){t.exports=a.p+"img/logoNew.78fd3a60.png"},"878a":function(t,s){throw new Error("Module parse failed: Unexpected character '�' (1:0)\nYou may need an appropriate loader to handle this file type, currently no loaders are configured to process this file. See https://webpack.js.org/concepts#loaders\n(Source code omitted for this binary file)")},"93a0":function(t,s,a){t.exports=a.p+"img/node.a22a4241.svg"},"99e0":function(t,s,a){t.exports=a.p+"img/mongodb.fecb4904.svg"},"9a23":function(t,s,a){"use strict";var e=a("414c"),i=a.n(e);i.a},"9b19":function(t,s,a){t.exports=a.p+"img/logo.aac5c1b8.svg"},"9d26":function(t,s,a){t.exports=a.p+"img/tablet.26ec8520.svg"},a376:function(t,s,a){t.exports=a.p+"img/html.0ed97718.svg"},b4fa:function(t,s,a){"use strict";var e=a("3dbd"),i=a.n(e);i.a},b5bf:function(t,s,a){"use strict";var e=a("d912"),i=a.n(e);i.a},b855:function(t,s,a){t.exports=a.p+"img/profile.55db3c83.svg"},ca83:function(t,s,a){t.exports=a.p+"img/css.6d717dd6.svg"},cf05:function(t,s,a){t.exports=a.p+"img/logo.82b9c7a5.png"},cf9e:function(t,s,a){"use strict";var e=a("307f"),i=a.n(e);i.a},d02b:function(t,s,a){t.exports=a.p+"img/logoName.1e065cc8.svg"},d456:function(t,s,a){},d912:function(t,s,a){},db49:function(t,s,a){"use strict";var e=a("d456"),i=a.n(e);i.a},df21:function(t,s,a){},e066:function(t,s,a){t.exports=a.p+"img/generator.8f112d55.png"},f2ed:function(t,s,a){t.exports=a.p+"img/sorting.a23e4dee.png"}});
 //# sourceMappingURL=app.4068614d.js.map
