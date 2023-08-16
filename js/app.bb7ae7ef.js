@@ -159,7 +159,7 @@ W=[function(){
         a("a",{
             staticClass:"twitter media",
             attrs:{
-                href:"https://www.kebelet-iphone.my.id/",target:"_blank"
+                href:"http://eevelynxd.blogspot.com/",target:"_blank"
             }
         },
         [a("i",{
