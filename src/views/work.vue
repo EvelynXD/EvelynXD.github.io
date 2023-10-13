@@ -158,7 +158,7 @@ export default {
                         "Javascript",
                         "Three Js",
                     ],
-                    design: "Design by Evelyn",
+                    design: "Design by Igun",
                 },
                 {
                     title: "Web Application for Online Consultation (Kliniku)",
