@@ -53,7 +53,7 @@
 }
 
 .text p .linkedln::before {
-    content: "Linkedln";
+    content: "Facebook";
 }
 .text p .contact::before {
     content: "contact me.";
