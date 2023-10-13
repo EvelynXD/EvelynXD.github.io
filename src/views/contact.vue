@@ -58,10 +58,10 @@
                     ></textarea>
                     <div class="buttons">
                         <div class="social">
-                            <a class="email media" href="mailto:gunawanfsdev@gmail" target="_blank">
+                            <a class="email media" href="mailto:dayatyat585@gmail.com" target="_blank">
                                 <i class="fas fa-envelope"></i>
                             </a>
-                            <a class="twitter media" href="https://www.kebelet-iphone.my.id/" target="_blank">
+                            <a class="twitter media" href="https://eevelynxd.blogspot.com/" target="_blank">
                                 <i class="fab fa-blogger"></i>
                             </a>
                             <a class="github media" href="https://github.com/EvelynXD" target="_blank">
@@ -69,7 +69,7 @@
                             </a>
                             <a
                                 class="Linkedln media"
-                                href="https://www.facebook.com/hasan.bangbross.9"
+                                href="https://www.facebook.com/profile.php?id=100090651867588"
                                 target="_blank"
                             >
                                 <i class="fab fa-facebook"></i>
@@ -118,7 +118,7 @@ export default {
             this.toggleStatusPage();
             axios.defaults.headers.post["Content-Type"] = "application/json";
             axios
-                .post("https://formsubmit.co/ajax/a8900873@gmail.com", {
+                .post("https://formsubmit.co/ajax/dayatyat585@gmail.com", {
                     name: this.name,
                     email: this.email,
                     message: this.message,
