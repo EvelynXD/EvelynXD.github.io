@@ -26,7 +26,7 @@
         <div class="gallery">
             <div>
                 <a href="https://kuru-kuru.vercel.app/" target="_blank">
-                    <img src="../assets/mangjasa_box.png" alt="" />
+                    <img src="../assets/herta-kuru_box.png" alt="" />
                 </a>
             </div>
             <div>
@@ -34,7 +34,7 @@
                     href="https://kebelet-iphone.vercel.app/"
                     target="_blank"
                 >
-                    <img src="../assets/pathfinding_box.png" alt="" />
+                    <img src="../assets/kebelet-iphone_box.png" alt="" />
                 </a>
             </div>
             <div>
@@ -42,7 +42,7 @@
                     href="https://evelynxd.github.io/firework-2023/"
                     target="_blank"
                 >
-                    <img src="../assets/sorting_box.png" alt="" />
+                    <img src="../assets/fireworks-2023_box.png" alt="" />
                 </a>
             </div>
             <div>
@@ -50,7 +50,7 @@
                     href="https://evelyn-terminal.vercel.app/"
                     target="_blank"
                 >
-                    <img src="../assets/inventory_box.png" alt="" />
+                    <img src="../assets/terminal-portfolio_box.png" alt="" />
                 </a>
             </div>
             <div>
@@ -58,12 +58,12 @@
                     href="https://evelynxd.vercel.app/"
                     target="_blank"
                 >
-                    <img src="../assets/custom_box.png" alt="" />
+                    <img src="../assets/firts-portfolio_box.png" alt="" />
                 </a>
             </div>
             <div>
                 <a href="https://evelynxd.github.io/Snake-/" target="_blank">
-                    <img src="../assets/ideas_box.png" alt="" />
+                    <img src="../assets/snake_box.png" alt="" />
                 </a>
             </div>
             <div>
