@@ -81,7 +81,7 @@ export default {
                     source:
                         "https://github.com/EvelynXD/firework-2023",
                     link: "https://evelynxd.github.io/firework-2023/",
-                    img: "sorting.png",
+                    img: "fireworks-2023.png",
                     codeTools: ["HTML", "CSS", "Javascript"],
                     design: "Design by Evelyn",
                 },
@@ -93,7 +93,7 @@ export default {
                         "https://github.com/EvelynXD/Kebelet-Iphone",
                     link:
                         "https://kebelet-iphone.vercel.app/",
-                    img: "pathfinding-visualizer.png",
+                    img: "kebelet-iphone.png",
                     codeTools: ["HTML", "CSS", "PHP"],
                     design: "Design by Evelyn",
                 },
@@ -103,7 +103,7 @@ export default {
                         "The website for Herta, the cutest genius Honkai: Star Rail character out there.",
                     source: "https://github.com/EvelynXD/kuru-kuru",
                     link: "https://kuru-kuru.vercel.app/",
-                    img: "mangjasa.png",
+                    img: "herta-kuru.png",
                     codeTools: ["HTML", "CSS", "Javascript"],
                     design: "Design by Haviza Aufa",
                 },
@@ -115,7 +115,7 @@ export default {
                         "https://github.com/EvelynXD/first-profile",
                     link:
                         "https://evelynxd.vercel.app/",
-                    img: "generator.png",
+                    img: "firts-portfolio.png",
                     codeTools: ["React JS"],
                     design: "Design by Me",
                 },
@@ -126,7 +126,7 @@ export default {
                     source:
                         "https://github.com/EvelynXD/terminal",
                     link: "https://evelyn-terminal.vercel.app/",
-                    img: "inventory.png",
+                    img: "terminal-portfolio.png",
                     codeTools: [
                         "TypeScript",
                         "React JS",
@@ -141,7 +141,7 @@ export default {
                         "This project can be accessed through a web browser and has been optimized for a responsive display, which means the game can be played on various devices, both desktop and mobile devices.",
                     source: "https://github.com/EvelynXD/Snake-",
                     link: "https://evelynxd.github.io/Snake-/",
-                    img: "ideas.png",
+                    img: "snake.png",
                     codeTools: ["HTML", "CSS", "Javascript"],
                     design: "Design by Evelyn",
                 },
