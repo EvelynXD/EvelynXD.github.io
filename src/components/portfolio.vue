@@ -25,13 +25,13 @@
         </div>
         <div class="gallery">
             <div>
-                <a href="https://mangjasa.com/" target="_blank">
+                <a href="https://kuru-kuru.vercel.app/" target="_blank">
                     <img src="../assets/mangjasa_box.png" alt="" />
                 </a>
             </div>
             <div>
                 <a
-                    href="https://gunawanahmad.github.io/pathfinding-visualizer/#/"
+                    href="https://kebelet-iphone.vercel.app/"
                     target="_blank"
                 >
                     <img src="../assets/pathfinding_box.png" alt="" />
@@ -39,7 +39,7 @@
             </div>
             <div>
                 <a
-                    href="https://gunawanahmad.github.io/sorting-visualizer/"
+                    href="https://evelynxd.github.io/firework-2023/"
                     target="_blank"
                 >
                     <img src="../assets/sorting_box.png" alt="" />
@@ -47,7 +47,7 @@
             </div>
             <div>
                 <a
-                    href="https://inventory-web-app.herokuapp.com/"
+                    href="https://evelyn-terminal.vercel.app/"
                     target="_blank"
                 >
                     <img src="../assets/inventory_box.png" alt="" />
@@ -55,14 +55,14 @@
             </div>
             <div>
                 <a
-                    href="https://gunawanahmad.github.io/Radio-Checkbox-Generator/"
+                    href="https://evelynxd.vercel.app/"
                     target="_blank"
                 >
                     <img src="../assets/custom_box.png" alt="" />
                 </a>
             </div>
             <div>
-                <a href="https://ideas-io.vercel.app/" target="_blank">
+                <a href="https://evelynxd.github.io/Snake-/" target="_blank">
                     <img src="../assets/ideas_box.png" alt="" />
                 </a>
             </div>
